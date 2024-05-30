@@ -22,4 +22,5 @@
 </div>
 <div><br /></div>
 
-<a href='https://github.com/aufftool/theme-/blob/main/wplikely%20safe%20link.xml'>Download</a>
+<a href='https://github.com/aufftool/theme-/blob/main/wplikely%20safe%20link.xml'>Download</a> - demo : https://xabc.page.link/r39g
+
