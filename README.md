@@ -1,4 +1,4 @@
-<h1>blogger wplikely safe version 1.2 update </h1>
+<h1>blogger wplikely safe lin version 1.2 update </h1>
 <p>
   <a href="IMG_20240530_204958_823.jpg" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="2340" data-original-width="1080" height="320" src="IMG_20240530_204958_823.jpg" width="148" /></a><a href="gif-20240530-204058.gif" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="1280" data-original-width="590" height="320" src="gif-20240530-204058.gif" width="148" /></a>
 </p>
@@ -21,3 +21,5 @@
   </div>
 </div>
 <div><br /></div>
+
+<a href='https://github.com/aufftool/theme-/blob/main/wplikely%20safe%20link.xml'>Download</a>
